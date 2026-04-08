@@ -9,10 +9,13 @@ Estamos documentando los primeros pasos en el control de versiones
 
 * **Git**
 * * GIT-HUB**
-  *  **MarkDown**
+   *  **MarkDown**
   ### Como usar el repositorio:
 URL
 
 ### AUTOR
 
 Anthony Guillermo Rico
+
+### Status
+Finalizado en la version 1.0 
